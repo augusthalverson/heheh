@@ -1,0 +1,19 @@
+{
+  "name": "truman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "bin": {
+    "truman-fun": "./bin/index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "August Halverson",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.0",
+    "chalk-animation": "^1.6.0"
+  },
+  "type": "module"
+}
